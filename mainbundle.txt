@@ -1,0 +1,16 @@
+{
+  "bundles": [
+    {
+      "id": 0,
+      "url": "asset:///libcom_lzx_h_module_image.so",
+      "name": "com_lzx_h_module_image",
+      "version": "0"
+    },
+    {
+      "id": 0,
+      "url": "asset:///libcom_lzx_h_module_main.so",
+      "name": "com_lzx_h_module_image",
+      "version": "0"
+    }
+  ]
+}

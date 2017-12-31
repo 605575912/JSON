@@ -1,0 +1,13 @@
+{
+  "splashs": [
+    {
+      "id": 0,
+      "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514221875246&di=da137048cd71fba09c1dab21c7c64c18&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01a60558a3e924a801219c778e57a0.jpg",
+      "name": 23,
+      "url": "https://www.baidu.com",
+      "stime": 0,
+      "etime": 0,
+      "counttime" :5
+    }
+  ]
+}
